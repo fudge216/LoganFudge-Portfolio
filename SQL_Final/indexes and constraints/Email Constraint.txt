@@ -1,0 +1,4 @@
+use lf0898278
+go
+
+alter table Record_Shop_Customers add constraint CK_Email check (Cust_Email like '%_@__%.__%')

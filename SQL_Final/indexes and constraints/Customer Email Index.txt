@@ -1,0 +1,2 @@
+CREATE INDEX IX_Customer_Email
+ON Record_Shop_Customers (Cust_Email);

@@ -1,0 +1,3 @@
+ALTER TABLE Albums
+ADD CONSTRAINT CK_DefaultDate
+DEFAULT 'Jan 1st 1901' FOR Album_ReleaseYear;

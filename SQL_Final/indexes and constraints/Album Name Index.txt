@@ -1,0 +1,2 @@
+CREATE INDEX IX_Album_Name
+ON Albums (Album_AlbumName);
