@@ -1,0 +1,13 @@
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy final.csproj.AssemblyReference.cache
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy_final.Options_Form.resources
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy_final.Properties.Resources.resources
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy final.csproj.GenerateResource.cache
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy final.csproj.CoreCompileInputs.cache
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\bin\Debug\Jeopardy final.exe.config
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\bin\Debug\Jeopardy final.exe
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\bin\Debug\Jeopardy final.pdb
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy final.exe
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy final.pdb
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy_final.GameBoard_Form.resources
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\bin\Debug\Jeopardy.xml
+C:\Users\fluff\OneDrive - Ozarks Technical Community College\OTC Classes\CIS 151\Final\Jeopardy final\Jeopardy final\obj\Debug\Jeopardy_final.QandA_Form.resources
