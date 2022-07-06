@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- set up including axios and vue -->
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="styles.css">
+   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+   <title>Document</title>
+</head>
+
+<body>
+   <!-- nav bar -->
+   <nav class="navbar navbar-light" style="background-color: #95cdf5;">
+      <h1>Welcome to your weather station</h1>
+    </nav>
+
+   <div id="app">
+      <!-- The set up for the radio buttons that decide the fate of the temp -->
+         <input id="new" type="text" placeholder="zipcode">
+         <input type="radio" name="temptype" id="celsius">
+         <label for="celsius">Celsius</label>
+         <input type="radio" name="temptype" id="fahrenheit">
+         <label for="fahrenheit">Fahrenheit</label>
+         <button v-on:click=callWeather>Check the Weather</button>
+
+     <!-- where the information from the api is put for the user to see -->
+         <p>
+         City: {{ city}}
+         <br>
+         Current weather conditions: {{weathertype}}
+         <br>
+         Current tempature: {{tempature}}
+         <br>
+      </p>
+      <img id="icon" src="" alt="">
+
+   </div>
+
+
+
+   <script src="scripts.js"></script>
+</body>
+
+</html>

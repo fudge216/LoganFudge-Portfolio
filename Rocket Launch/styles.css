@@ -1,0 +1,22 @@
+p{
+   color: rgb(251, 255, 5);
+}
+h1{
+   color:rgb(125, 240, 255)
+}
+body{
+   background-image: url("maxresdefault.jpg");
+}
+
+nav{
+   text-align: center;
+}
+#station, #astronauts{
+color: yellow;
+background-color: black;
+border-color:  rgb(255, 234, 48);
+}
+
+.card,.card-body{
+   background-color:rgb(49, 70, 117);
+}

@@ -1,0 +1,12 @@
+body{
+    background-image: url("Imgs/star.jpg");
+}
+.main{
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    background-color: rgb(211, 19, 236);
+    text-align: center;
+
+}

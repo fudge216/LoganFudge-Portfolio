@@ -1,0 +1,19 @@
+
+body{
+    background-image:url(cloud.jpg);
+    background-size:100%;
+}
+nav{
+    margin-top: 0px;
+    font-size: x-large;
+}
+#app{
+    border-style: dotted;
+    border-color: goldenrod;
+    border-width: 10px;
+    border-radius: 10% ;
+    text-align: center;
+    font-size: larger;
+    background-color: violet;
+}
+
