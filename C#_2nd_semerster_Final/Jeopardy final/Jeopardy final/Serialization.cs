@@ -41,7 +41,7 @@ namespace Jeopardy_final
 
         public void Serialize(string game)
         {
-            connectionString = "Data Source=stusql-cis151-101-fa21.cimq4ah3jd04.us-east-2.rds.amazonaws.com,1433; Initial Catalog=lf0898278; User Id=lf0898278; Password=898278;";
+            connectionString = "Data Source="// data pushed and pulled from private school server ;
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
